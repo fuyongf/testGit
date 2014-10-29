@@ -8,3 +8,4 @@ good!
 I have branch!
 Yes,you are right!
 conflict!
+I am solve conflict!
