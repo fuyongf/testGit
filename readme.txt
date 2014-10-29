@@ -6,3 +6,4 @@ How are you?
 I am binding github!
 good!
 I have branch!
+Yes,you are right!
