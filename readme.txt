@@ -7,3 +7,4 @@ I am binding github!
 good!
 I have branch!
 Yes,you are right!
+conflict!
