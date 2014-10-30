@@ -10,3 +10,5 @@ Yes,you are right!
 conflict!
 I am solve conflict!
 You are so good!
+Good!
+
