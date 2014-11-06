@@ -1,4 +1,4 @@
-hello, git¡
+hello, git
 I am coming!
 do you happy to see me?
 Yes!
@@ -17,4 +17,9 @@ Test!
 Github!
 Test!!!!
 in vim!
-
+dev too
+stash!
+git stash pop!
+git stash list
+git stash apply
+git stash drop
