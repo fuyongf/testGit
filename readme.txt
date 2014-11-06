@@ -19,3 +19,10 @@ Test!!!!
 in vim!
 dev!
 bug!
+dev too
+stash!
+git stash pop!
+git stash list
+git stash apply
+git stash drop
+
