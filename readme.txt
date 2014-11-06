@@ -26,3 +26,4 @@ git stash list
 git stash apply
 git stash drop
 commit dev to remote
+pull to local
