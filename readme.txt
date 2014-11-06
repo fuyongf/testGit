@@ -25,4 +25,4 @@ git stash pop!
 git stash list
 git stash apply
 git stash drop
-
+commit dev to remote
