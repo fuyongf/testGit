@@ -1,4 +1,4 @@
-hello, git¡
+hello, git
 I am coming!
 do you happy to see me?
 Yes!
@@ -18,3 +18,4 @@ Github!
 Test!!!!
 in vim!
 dev!
+bug!
